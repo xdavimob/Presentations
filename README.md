@@ -4,5 +4,7 @@
 
 ### Security BSides São Paulo v20 – 18 de Maio de 2025
 - [NetHunter Unleashed - O Guia Definitivo para Pentesters e Operadores](NetHunter%20Unleashed%20-%20O%20Guia%20Definitivo%20para%20Pentesters%20e%20Operadores.pdf)
-  ![PoC HID - Parte 1 (Configurando a payload e sendo detectado no dropper)]([https://youtu.be/1VjOUK6T6n4](https://youtu.be/bNR2XUsELU8))
-  ![PoC HID - Parte 2 (Ganhando a Shell!)](https://youtu.be/1VjOUK6T6n4)
+
+[![PoC HID - Parte 1 (Configurando a payload e sendo detectado no dropper)](https://img.youtube.com/vi/bNR2XUsELU8/0.jpg)](https://youtu.be/bNR2XUsELU8)
+
+[![PoC HID - Parte 2 (Ganhando a Shell!)](https://img.youtube.com/vi/1VjOUK6T6n4/0.jpg)](https://youtu.be/1VjOUK6T6n4)
